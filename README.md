@@ -7,4 +7,5 @@ npm install for both seperately
 
 #run
 npm start for Frontend
+
 npm run dev for backend
