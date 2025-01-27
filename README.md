@@ -6,5 +6,5 @@ react + vite
 npm install for both seperately
 
 #run
-npm run dev for Frontend
-npm start for backend
+npm start for Frontend
+npm run dev for backend
